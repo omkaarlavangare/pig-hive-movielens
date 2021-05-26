@@ -1,5 +1,7 @@
 # MovieLens Dataset
 Here, I have performed some basic analysis on the movielens dataset, through Pig and Hive.
+Firstly, I have uploaded the data onto hdfs in "pigInput" named directory.<br>
+Secondly, loaded the necessary tables and made sure that it is ready to use.
 ## Scripts
 I have done the same analysis but with different languages.<br>
 Also, I have kept the structure of the scripts same for different analysis as anybody can easily figure out what changes have been made and how a particular script is different from other.
